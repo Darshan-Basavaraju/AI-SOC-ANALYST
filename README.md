@@ -64,6 +64,3 @@ python analyzer.py logs.txt
 ```
 
 ---
-
-## 📌 Author
-Darshan B
